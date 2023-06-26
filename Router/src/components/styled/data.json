@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "유진, 초이",
+    "role": "Eugene Choi, 노비의 아들, 미 해병대 장교",
+    "imageURL": "https://poc-cf-image.cjenm.com/public/pcms/character/B120188731/kr/B120188731_character_1669718615123.png?v=1677044733",
+    "introduction": "어미도 아비도 노비여서 태어나는 순간부터\n노비였으나 검은 머리의 미국인인 사내.\n\n하여, 이방인의 냉정함,\n침략자의 오만함,\n방관자의 섹시함을 가진 사내."
+  },
+  {
+    "id": "2",
+    "name": "고애신",
+    "role": "사대부 영애",
+    "imageURL": "https://poc-cf-image.cjenm.com/public/pcms/character/B120188731/kr/B120188731_character_1669718615126.png?v=1677044733",
+    "introduction": "하루가 멀다 하고\n온갖 추문이 대문을 넘어왔다.\n\n그도 그럴 것이 열다섯만 넘어도 노처녀 소리 듣는 조선 땅에서 혼기를 놓쳐도 한참 놓친 애신의 나이 스물아홉이었다.\n\n이게 다 희성 때문이다."
+  },
+  {
+    "id": "3",
+    "name": "구동매",
+    "role": "백정의 아들, 무신회 한성지부장",
+    "imageURL": "https://poc-cf-image.cjenm.com/public/pcms/character/B120188731/kr/B120188731_character_1669718615129.png?v=1677044733",
+    "introduction": "태어나보니 백정의 아들이었다.\n\n백정은 사람이 아니었다.\n백정의 딸과 아내는 보란 듯이 욕보여졌고 백정의 사내들은 칼을 들었으나 아무도 벨 수 없으니 날마다 치욕이었다.\n마주치면 기겁했고 비껴가면 침을 뱉었다.\n막무가내의 매질이 외려 덜 아팠다.\n\n소나 돼지만도 못한 존재, 그게 동매였다."
+  },
+  {
+    "id": "4",
+    "name": "쿠도 히나",
+    "role": "호텔 '글로리' 사장",
+    "imageURL": "https://poc-cf-image.cjenm.com/public/pcms/character/B120188731/kr/B120188731_character_1669718615132.png?v=1677044733",
+    "introduction": "조선 이름 ‘이양화’에 먹물이 마르기도 전에\n 친일파 아버지의 남다른 혜안(?)으로 일찍이 결혼해 ‘쿠도 히나(工藤 陽花)’가 되었다.\n\n그녀의 어머닌 딸의 혼인을 볼 수조차 없었다.\n\n조강지처였으나 조선인이란 이유로 아버지에게 내쳐졌기 때문이었다."
+  },
+  {
+    "id": "5",
+    "name": "김희성",
+    "role": "룸펜, 애신의 정혼자",
+    "imageURL": "https://poc-cf-image.cjenm.com/public/pcms/character/B120188731/kr/B120188731_character_1669718615135.png?v=1677044733",
+    "introduction": "빛날 희, 별 성.\n\n사람은 이름 따라간다고 희성은 어디서나 눈에 띄었다.\n다정하고 재밌고 돈 많고 잘생기기까지 했으니 늘 목하 열애중이다.\n\n자칭 박애주의자 타칭 바람둥이다."
+  }
+]
